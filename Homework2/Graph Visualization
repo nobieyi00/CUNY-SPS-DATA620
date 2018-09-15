@@ -1,0 +1,14 @@
+This week's assignment is to:
+1. Load a graph database of your choosing from a text file or other source. If you take a
+large network dataset from the web (such as from https://snap.stanford.edu/data/), please
+feel free at this point to load just a small subset of the nodes and edges.
+2. Create basic analysis on the graph, including the graph’s diameter, and at least one other
+metric of your choosing. You may either code the functions by hand (to build your
+intuition and insight), or use functions in an existing package.
+3. Use a visualization tool of your choice (Neo4j, Gephi, etc.) to display information.
+4. Please record a short video (~ 5 minutes), and submit a link to the video as part of your
+homework submission.
+You may work in a small group on this project. Parts one and two should be posted to GitHub
+and submitted in your assignment link by end of day September 12th. Parts 3 and 4 should
+be in your video presentation. We may display some of the results in our Meet-up on
+September 13th
